@@ -1,0 +1,115 @@
+{
+    "supermercados": [    
+        {
+            "nombre": "supermercado1",
+            "direccion": "direccion 1",
+            "geolocalizacion": ["41°24'12.2 N", "2°10'26.5 E"],
+            "productos": [
+                {
+                    "nombre": "producto1",
+                    "oferta": "no",
+                    "periodo de vigencia": ["01/01/2022","01/06/2022"],
+                    "productos habitual de consumo sin oferta": "si",
+                    "unidades": 350,
+                    "unidad de medida": "unidades",
+                    "precio": 22,
+                    "producto adquirido": "no"
+                },
+                {
+                    "nombre": "producto2",
+                    "oferta": "si",
+                    "periodo de vigencia": ["04/01/2022","03/03/2022"],
+                    "productos habitual de consumo sin oferta": "no",
+                    "unidades": 30,
+                    "unidad de medida": "kg",
+                    "precio": 1.7,
+                    "producto adquirido": "no"
+                },
+                {
+                    "nombre": "producto3",
+                    "oferta": "no",
+                    "periodo de vigencia": ["22/02/2022","18/03/2022"],
+                    "productos habitual de consumo sin oferta": "no",
+                    "unidades": 55,
+                    "unidad de medida": "unidades",
+                    "precio": 17.99,
+                    "producto adquirido": "no"
+                }
+            ]
+        },
+        {
+            "nombre": "supermercado2",
+            "direccion": "direccion 2",
+            "geolocalizacion": ["41°24'18.2 N", "2°10'26.5 E"],
+            "productos": [
+                {
+                    "nombre": "producto1",
+                    "oferta": "no",
+                    "periodo de vigencia": ["01/01/2022","01/06/2022"],
+                    "productos habitual de consumo sin oferta": "si",
+                    "unidades": 350,
+                    "unidad de medida": "unidades",
+                    "precio": 23,
+                    "producto adquirido": "no"
+                },
+                {
+                    "nombre": "producto2",
+                    "oferta": "si",
+                    "periodo de vigencia": ["04/01/2022","03/03/2022"],
+                    "productos habitual de consumo sin oferta": "no",
+                    "unidades": 30,
+                    "unidad de medida": "kg",
+                    "precio": 1.5,
+                    "producto adquirido": "no"
+                },
+                {
+                    "nombre": "producto3",
+                    "oferta": "no",
+                    "periodo de vigencia": ["22/02/2022","18/03/2022"],
+                    "productos habitual de consumo sin oferta": "no",
+                    "unidades": 55,
+                    "unidad de medida": "unidades",
+                    "precio": 19.99,
+                    "producto adquirido": "no"
+                }
+            ]
+        },
+        {
+            "nombre": "supermercado3",
+            "direccion": "direccion 1",
+            "geolocalizacion": ["41°24'12.2 N", "2°10'26.5 E"],
+            "productos": [
+                {
+                    "nombre": "producto1",
+                    "oferta": "no",
+                    "periodo de vigencia": ["01/01/2022","01/06/2022"],
+                    "productos habitual de consumo sin oferta": "si",
+                    "unidades": 350,
+                    "unidad de medida": "unidades",
+                    "precio": 22,
+                    "producto adquirido": "no"
+                },
+                {
+                    "nombre": "producto2",
+                    "oferta": "si",
+                    "periodo de vigencia": ["04/01/2022","03/03/2022"],
+                    "productos habitual de consumo sin oferta": "no",
+                    "unidades": 30,
+                    "unidad de medida": "kg",
+                    "precio": 1.7,
+                    "producto adquirido": "no"
+                },
+                {
+                    "nombre": "producto3",
+                    "oferta": "no",
+                    "periodo de vigencia": ["22/02/2022","18/03/2022"],
+                    "productos habitual de consumo sin oferta": "no",
+                    "unidades": 55,
+                    "unidad de medida": "unidades",
+                    "precio": 17.99,
+                    "producto adquirido": "no"
+                }
+            ]
+        }
+    ]
+}    

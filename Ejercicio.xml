@@ -1,0 +1,124 @@
+https://www.utilities-online.info/jsontoxml
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <supermercados>
+    <nombre>supermercado1</nombre>
+    <direccion>direccion 1</direccion>
+    <geolocalizacion>41°24'12.2 N</geolocalizacion>
+    <geolocalizacion>2°10'26.5 E</geolocalizacion>
+    <productos>
+      <nombre>producto1</nombre>
+      <oferta>no</oferta>
+      <periodo__EA__de__EA__vigencia>01/01/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>01/06/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>si</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">350</unidades>
+      <unidad__EA__de__EA__medida>unidades</unidad__EA__de__EA__medida>
+      <precio number="true">22</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+    <productos>
+      <nombre>producto2</nombre>
+      <oferta>si</oferta>
+      <periodo__EA__de__EA__vigencia>04/01/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>03/03/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>no</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">30</unidades>
+      <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+      <precio number="true">1.7</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+    <productos>
+      <nombre>producto3</nombre>
+      <oferta>no</oferta>
+      <periodo__EA__de__EA__vigencia>22/02/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>18/03/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>no</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">55</unidades>
+      <unidad__EA__de__EA__medida>unidades</unidad__EA__de__EA__medida>
+      <precio number="true">17.99</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+  </supermercados>
+  <supermercados>
+    <nombre>supermercado2</nombre>
+    <direccion>direccion 1</direccion>
+    <geolocalizacion>41°24'12.2 N</geolocalizacion>
+    <geolocalizacion>2°10'26.5 E</geolocalizacion>
+    <productos>
+      <nombre>producto1</nombre>
+      <oferta>no</oferta>
+      <periodo__EA__de__EA__vigencia>01/01/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>01/06/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>si</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">350</unidades>
+      <unidad__EA__de__EA__medida>unidades</unidad__EA__de__EA__medida>
+      <precio number="true">23</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+    <productos>
+      <nombre>producto2</nombre>
+      <oferta>si</oferta>
+      <periodo__EA__de__EA__vigencia>04/01/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>03/03/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>no</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">30</unidades>
+      <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+      <precio number="true">1.5</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+    <productos>
+      <nombre>producto3</nombre>
+      <oferta>no</oferta>
+      <periodo__EA__de__EA__vigencia>22/02/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>18/03/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>no</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">55</unidades>
+      <unidad__EA__de__EA__medida>unidades</unidad__EA__de__EA__medida>
+      <precio number="true">19.99</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+  </supermercados>
+  <supermercados>
+    <nombre>supermercado3</nombre>
+    <direccion>direccion 1</direccion>
+    <geolocalizacion>41°24'12.2 N</geolocalizacion>
+    <geolocalizacion>2°10'26.5 E</geolocalizacion>
+    <productos>
+      <nombre>producto1</nombre>
+      <oferta>no</oferta>
+      <periodo__EA__de__EA__vigencia>01/01/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>01/06/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>si</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">350</unidades>
+      <unidad__EA__de__EA__medida>unidades</unidad__EA__de__EA__medida>
+      <precio number="true">22</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+    <productos>
+      <nombre>producto2</nombre>
+      <oferta>si</oferta>
+      <periodo__EA__de__EA__vigencia>04/01/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>03/03/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>no</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">30</unidades>
+      <unidad__EA__de__EA__medida>kg</unidad__EA__de__EA__medida>
+      <precio number="true">1.7</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+    <productos>
+      <nombre>producto3</nombre>
+      <oferta>no</oferta>
+      <periodo__EA__de__EA__vigencia>22/02/2022</periodo__EA__de__EA__vigencia>
+      <periodo__EA__de__EA__vigencia>18/03/2022</periodo__EA__de__EA__vigencia>
+      <productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>no</productos__EA__habitual__EA__de__EA__consumo__EA__sin__EA__oferta>
+      <unidades number="true">55</unidades>
+      <unidad__EA__de__EA__medida>unidades</unidad__EA__de__EA__medida>
+      <precio number="true">17.99</precio>
+      <producto__EA__adquirido>no</producto__EA__adquirido>
+    </productos>
+  </supermercados>
+</root>
